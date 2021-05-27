@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/categorySummary" android:title="View Category Summary"/>
+    <item android:id="@+id/searchFilms" android:title="Search Films"/>
+    <item android:id="@+id/searchRental" android:title="Search Rental Location"/>
+
+
+</menu>
